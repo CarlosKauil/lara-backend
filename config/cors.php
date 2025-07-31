@@ -6,6 +6,7 @@ return [
     'allowed_origins' => [
         'http://localhost:5173',
         'http://localhost:5174',
+        'http://varticameta.s3-website.us-east-2.amazonaws.com',
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
